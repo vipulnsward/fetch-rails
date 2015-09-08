@@ -1,6 +1,6 @@
 # Fetch::Rails
 
-A window.fetch polyfill for browser from Rails using https://github.com/github/fetch
+A window.fetch polyfill (https://github.com/github/fetch) for browser, to support fetch api through Rails asset pipeline. 
 
 ## Installation
 
