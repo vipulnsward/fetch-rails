@@ -2,6 +2,8 @@
 
 A window.fetch polyfill (https://github.com/github/fetch) for browser, to support fetch api through Rails asset pipeline. 
 
+If you are using webpacker in rails, prefer imporitng this from webpack instead.
+
 ## Installation
 
 Add this line to your application's Gemfile:
